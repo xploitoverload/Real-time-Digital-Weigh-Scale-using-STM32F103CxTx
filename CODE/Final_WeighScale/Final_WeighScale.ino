@@ -1,6 +1,6 @@
 /* 
  * Project: Scale with HX711, LCD, and TM1637 7-Segment Display
- * Developers: Kalpesh Solanki (https://kalpeshsolanki.me) and Nilesh Khandar
+ * Developers: Kalpesh Solanki ( https://kalpeshsolanki.me ) and Nilesh Khandar
  * Description: This project involves creating a digital scale using an LOADCELL, STM32F103C8T6, HX711 module, LCD display, 
  *              and TM1637 7-segment display. The scale is calibrated using a known weight and can
  *              be reset using buttons. The weight is displayed on both the LCD and TM1637 displays.
